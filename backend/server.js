@@ -32,6 +32,10 @@ const logRoutes = require('./routes/logRoutes');
 app.use('/api/auth', authRoutes);
 app.use('/api/tasks', taskRoutes);  
 app.use('/api/logs', logRoutes);    
+app.get('/', (req, res) => {
+  res.send('Kanban Backend is running');
+});
+
 
 server.listen(process.env.PORT || 4000, () => {
   console.log(`Server is running on port ${process.env.PORT || 4000}`);
