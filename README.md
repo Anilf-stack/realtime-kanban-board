@@ -69,5 +69,9 @@ realtime-kanban-board/
 │ ├── context/
 │ └── main.jsx
 
-## 📘 Logic Document
-- [Logic_Document.pdf](https://drive.google.com/file/d/1MihSoYUFwzveUjmdlGqH3niIvs1AYYUj/view?usp=sharing)
+## Logic Document
+-   https://drive.google.com/file/d/1MihSoYUFwzveUjmdlGqH3niIvs1AYYUj/view?usp=sharing
+## Live deployed
+-  https://realtime-kanban-board.vercel.app/
+## Demo Video
+- https://drive.google.com/file/d/1YgCCnU8kH76SRmuKIew7ReJuY2XwQJuj/view?usp=sharing
